@@ -1,3 +1,3 @@
-midearth.nv Middle Earth (Atari 1978)
+Middle Earth (Atari 1978) --> midearth.nv 
 
-spcrider.nv Space Riders (Atari 1978)
+Space Riders (Atari 1978) --> spcrider.nv 
